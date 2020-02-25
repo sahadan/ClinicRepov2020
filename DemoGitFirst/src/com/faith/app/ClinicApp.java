@@ -6,7 +6,7 @@ public class ClinicApp {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome to Clinic App");
-
+		//Change B
 	}
 
 }
